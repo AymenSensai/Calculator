@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="CalculatorButtonTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="calculatorButtonDisplaysCorrectSymbol()">
+        <State />
+      </entry>
+      <entry key="calculatorButtonOnClick()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
